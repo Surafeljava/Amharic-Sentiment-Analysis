@@ -11,3 +11,19 @@ pre-processing
 
 venv
 - Local environment
+
+
+To add large files using the git lfs
+
+# add the files you want tracked. 
+# add all csv files to git lfs tracking
+git lfs track "*.csv"
+
+# add all mp4 files to git lfs tracking
+git lfs track "*.mp4"
+
+# add individual files to git lfs tracking
+git lfs track "file.wav"
+
+# add git attributes
+git add .gitattributes
