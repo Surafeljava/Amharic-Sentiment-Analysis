@@ -12,6 +12,9 @@ pre-processing
 venv
 - Local environment
 
+Download the "tain.txt" file from this link: 
+https://drive.google.com/file/d/1h_lBfATsWqQLXxZLqfIWPrvMP9zIa4aJ/view?usp=sharing
+
 
 To add large files using the git lfs
 
