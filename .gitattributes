@@ -1,3 +1,4 @@
 *.txt filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
 file.wav filter=lfs diff=lfs merge=lfs -text
