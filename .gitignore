@@ -1,2 +1,7 @@
-*.txt
+*test.txt
+*train.txt
+*valid.txt
+*dev.txt
+*.tsv
 .env
+**/venv/
